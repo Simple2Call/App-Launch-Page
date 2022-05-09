@@ -1338,7 +1338,7 @@
 
 .device[data-device="iPhone7Hand"][data-orientation="portrait"][data-color="black"] {
   padding-bottom: 158.39243%;
-  background-image: url(../device/portrait_black.png);
+  background-image: url(device/portrait_black.png);
 }
 .device[data-device="iPhone7Hand"][data-orientation="portrait"][data-color="black"]
   .screen {
