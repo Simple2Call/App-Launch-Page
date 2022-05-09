@@ -1,4 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@1,500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@400&display=swap");
+
 .navbar {
-    border-bottom: 2px solid #eee;
-    background: #fff;
+  border-bottom: 2px solid #eee;
+  background: #fff;
+}
+
+.main-title {
+  font-family: "Gelasio", serif;
+}
+
+.main-description {
+  font-family: "Heebo", sans-serif;
+  color: #424242;
 }
