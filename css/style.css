@@ -1,5 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@1,500&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Pragati+Narrow:wght@700&display=swap");
 
 .navbar {
   border-bottom: 2px solid #eee;
@@ -7,11 +7,11 @@
 }
 
 .main-title {
-  font-family: "Gelasio", serif;
+  font-family: "Pragati Narrow", sans-serif;
 }
 
-.main-description {
-  font-family: "Heebo", sans-serif;
+.mybold {
+  font-family: "Roboto", sans-serif;
   color: #424242;
 }
 
@@ -68,4 +68,31 @@
 
 .platform-image:hover {
   opacity: 1;
+}
+
+.gradient-icon {
+  border-radius: 0.8rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  color: #fff;
+  background: #540cfa;
+  text-align: center;
+  line-height: 3.5rem;
+  display: inline-block;
+  margin-bottom: 1rem;
+  font-size: 1.4rem;
+}
+
+.gradient-1 {
+  background: linear-gradient(150deg, #9c09db, #1c0fd7) !important;
+  box-shadow: 0 2px 4px rgba(36, 8, 128, 0.2);
+}
+
+.gradient-2 {
+  background: linear-gradient(150deg, #F2C314, #FC3832) !important;
+  box-shadow: 0 2px 4px rgba(36, 8, 128, 0.2);
+}
+.gradient-3 {
+  background: linear-gradient(150deg, #32FBFC, #3214F2) !important;
+  box-shadow: 0 2px 4px rgba(36, 8, 128, 0.2);
 }
