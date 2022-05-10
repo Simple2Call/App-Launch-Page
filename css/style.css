@@ -89,10 +89,15 @@
 }
 
 .gradient-2 {
-  background: linear-gradient(150deg, #F2C314, #FC3832) !important;
+  background: linear-gradient(150deg, #f2c314, #fc3832) !important;
   box-shadow: 0 2px 4px rgba(36, 8, 128, 0.2);
 }
 .gradient-3 {
-  background: linear-gradient(150deg, #32FBFC, #3214F2) !important;
+  background: linear-gradient(150deg, #32fbfc, #3214f2) !important;
   box-shadow: 0 2px 4px rgba(36, 8, 128, 0.2);
+}
+
+.fun {
+  height: 100px;
+  background: linear-gradient(150deg, #9c09db, #1c0fd7) !important;
 }
